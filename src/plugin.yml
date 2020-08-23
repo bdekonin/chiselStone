@@ -1,0 +1,10 @@
+main: me.Dopeey.chiselStone.Main
+auther: Dopeey
+version: 1.0
+api-version: 1.13
+name: chiselStone
+
+commands:
+  chiselstone:
+    description: turns chiselStone on or off
+    usage: "Usage: /chiselStone <on|off>"
